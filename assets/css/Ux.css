@@ -81,7 +81,7 @@ Texto negrito
 
 /* Importante Titulo*/
 .ImportanteTitulo {
-    color: var(--CorImportante);
+    color: #FC6B30;
     text-align: left;
     text-transform: uppercase;
     font-size: 1.3em;
@@ -123,11 +123,11 @@ Texto negrito
 
 /* Fique Atento Titulo*/
 .FiqueAtentoTitulo {
-    color: var(--CorFiqueAtento);
-    text-align: left;
-    text-transform: uppercase;
-    font-size: 1.3em;
-    font-weight: bold;
+        color: #FC6B30;
+        text-align: left;
+        text-transform: uppercase;
+        font-size: 1.3em;
+        font-weight: bold;
 }
 .FiqueAtentoTitulo::before {
     font-family: "Font Awesome 5 Free"; 
@@ -145,17 +145,17 @@ Texto negrito
 
 /* Curiosidade Titulo*/
 .CuriosidadeTitulo {
-    color: var(--CorCuriosidade);
-    text-align: left;
-    text-transform: uppercase;
-    font-size: 1.2em;
-    font-weight: bold;
+        color: #013f21;;
+        text-align: left;
+        text-transform: uppercase;
+        font-size: 1.3em;
+        font-weight: bold;
 }
 .CuriosidadeTitulo::before {
     font-family: "Font Awesome 5 Free"; 
     font-weight: 900; 
     content: "\f0eb";
-    color: #93a221;
+    color: #008445;
 }
 /* Curiosidade Texto */
 .CuriosidadeTexto {
@@ -275,6 +275,11 @@ Texto negrito
     border-color: #17a2b8;
 }
 
+.center{
+    justify-content: center;
+    display: flex;
+    align-items: center
+}
 /* Botão back to top */
 .botao_btt {
     background: #004e0a none repeat scroll 0 0;
