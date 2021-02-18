@@ -221,6 +221,7 @@ include('layout/header.php');
                 </p>
             </div>
 
+            <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                     <a href="Topico01.php" class="btn ">Página Anterior</a>

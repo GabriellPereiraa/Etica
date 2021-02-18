@@ -143,12 +143,13 @@ include('layout/header.php');
             
         </div>
 
+        <br>
         <div class="center">
-                <div class="btn-group" id="btn-group">
-                    <a href="Topico03.php" class="btn ">Página Anterior</a>
-                    <a href="#" class="btn ">Topo da Página</a>
-                    <a href="Referencias.php" class="btn ">Proxima Página</a>
-                </div>
+            <div class="btn-group" id="btn-group">
+                <a href="Topico03.php" class="btn ">Página Anterior</a>
+                <a href="#" class="btn ">Topo da Página</a>
+                <a href="Referencias.php" class="btn ">Proxima Página</a>
+            </div>
         </div>
         
         <!-- SCRIPT LIGHTBOX -->
