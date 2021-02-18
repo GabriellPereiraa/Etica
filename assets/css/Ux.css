@@ -275,11 +275,21 @@ Texto negrito
     border-color: #17a2b8;
 }
 
+/* Classe para centralizar */
 .center{
     justify-content: center;
     display: flex;
     align-items: center
 }
+
+.border{
+    border: 1px solid black;
+}
+/* Borda de cor azul*/
+.borderAzul{
+    border: 1px solid #286ce6;
+}
+
 /* Botão back to top */
 .botao_btt {
     background: #004e0a none repeat scroll 0 0;
