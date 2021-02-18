@@ -224,9 +224,9 @@ include('layout/header.php');
             <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Topico01.php" class="btn ">Página Anterior</a>
-                    <a href="#" class="btn ">Topo da Página</a>
-                    <a href="Topico03.php" class="btn ">Proxima Página</a>
+                    <a href="Topico01.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="#" class="btn btn-outline-success btn-sm">Topo da Página</a>
+                    <a href="Topico03.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 
