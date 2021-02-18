@@ -53,9 +53,8 @@ include('layout/header.php');
             
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                        <a href="#" class="btn ">Página Anterior</a>
                         <a href="#" class="btn ">Topo da Página</a>
-                        <a href="#" class="btn ">Proxima Página</a>
+                        <a href="Topico01.php" class="btn ">Proxima Página</a>
                 </div>
             </div>
 

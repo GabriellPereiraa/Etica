@@ -77,12 +77,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </div>
-            
-        
-        
-        
-        
-        
+             
             <div class="center">
                 <div class="btn-group" id="btn-group">
                         <a href="Apresentacao.php" class="btn ">Página Anterior</a>
