@@ -57,12 +57,18 @@ include('layout/header.php');
                 Já a palavra <strong>moral</strong> é proveniente do latim moralis, ou ainda, mor-moris, que quer dizer “costume”, “maneira”, “comportamento próprio”. Ela está relacionada com o ethos no sentido de que é um modo de ser que pode ser adquirido gradualmente, que tem diversas fases de desenvolvimento. Resumidamente, podemos dizer que moris significa, a exemplo do ethos, o modo de ser ou o caráter. No entanto, ao passo que o caráter é adquirido pelo hábito (portanto, no ato de viver), o costume se adquire por repetições não necessariamente intencionais. Desse modo, a ética tem a ver com o campo de investigação do agir humano, enquanto a moral está relacionada ao objeto dessa investigação. Conforme Adela Cortina (1995)
                 </p>
 
-                <p class="Texto">
-                “a moral está ligada imediatamente à ação e prescreve a conduta, enquanto que a ética (filosofia moral) se pronuncia canonicamente, isto é, conforme as regras.”
-                </p>
-                <p class="Texto" style="color:var(--Cor01);">
-                – (CORTINA, 1995, p. 29.) 
-                </p>
+                <div class="row">
+                    <div class="col-1">
+                    </div>
+                    <div class="col-sm">
+                        <p class="Texto">
+                            “a moral está ligada imediatamente à ação e prescreve a conduta, enquanto que a ética (filosofia moral) se pronuncia canonicamente, isto é, conforme as regras.”
+                        </p>
+                        <p class="Texto" style="color:var(--Cor01);">
+                            – (CORTINA, 1995, p. 29.) 
+                        </p>
+                    </div>
+                </div>
 
                 <p class="Texto">
                     Portanto, a moral é objeto de estudo da ética.
