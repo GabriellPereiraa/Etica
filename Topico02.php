@@ -26,7 +26,7 @@ include('layout/header.php');
 
             <hr class="hr4">
 
-            <p class="texto"><strong>Objetivo:</strong></p>
+            <p class="Texto"><strong>Objetivo:</strong></p>
 
             <div class=col-1>
             </div>

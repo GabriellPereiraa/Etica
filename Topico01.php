@@ -24,7 +24,7 @@ include('layout/header.php');
 
             <hr class="hr4">
 
-            <p class="texto"><strong>Objetivo</strong>  Contextualizar a ética como parte da história humana.</p>
+            <p class="Texto"><strong>Objetivo</strong>  Contextualizar a ética como parte da história humana.</p>
             
             <hr class="hrLaranja">
             <div class="container">
