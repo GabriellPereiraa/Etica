@@ -73,6 +73,15 @@
                     <p class="SaibaMaisTitulo"> Saiba Mais</p>
                     <p class="SaibaMaisTexto">Texto_do_Saiba Mais</p>
                 </div>
+                <hr>
+                <!-- **** Citações *****-->
+                <div class="col-md-12">
+                    <blockquote class="blockquoteEad">
+                        <p class="mb-0">“O homem é um ser que não tem garantido de antemão seu próprio ser, mas deve conquistá-lo por empenho de sua própria liberdade.”</p>
+                        <footer class="blockquote-footer">(OLIVEIRA, 1993, p.11))</footer>
+                    </blockquote>
+                </div>
+                <!-- Fim Citações -->
 
                     
                 <!-- SCRIPT LIGHTBOX -->

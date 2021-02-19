@@ -27,45 +27,59 @@ include('layout/header.php');
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> ARISTÓTELES. <strong>Ética a Nicômacos</strong>. Brasília: UnB, 2001.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> CORTINA, Adela; MARTÍNEZ, Emilio. <strong>Ética</strong>. Madrid: Akal, 1996.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> DÍAZ, Francico Javier de la Torre. <strong>Ética y deontologia jurídica</strong>. Madrid: Dykinson, 2000.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> KANT, Immanuel. <strong>A metafísica dos costumes </strong>. Bauru: Edipro, 2008
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> KANT, Immanuel. <strong>Crítica da razão prática</strong>. Lisboa: Edições 70.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> NAGEL, Thomas. <strong> The possibility of altruism</strong>. New Jersey: Princeton University Press, 1970. 
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> OLIVEIRA, Manfredo Araújo de. <strong>Ética e sociabilidade</strong>. São Paulo: Loyola, 1993.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> RIBEIRO, Luís Távora Furtado (et. al.). <strong>Ética em três dimensões</strong> . Fortaleza: Brasil Tropical, 2003.CORTINA, Adela; MARTÍNEZ, Emilio. <strong>Ética</strong>. Madrid: Akal, 1996.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> DÍAZ, Francico Javier de la Torre. <strong>Ética y deontologia jurídica</strong>. Madrid: Dykinson, 2000.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> KANT, Immanuel.<strong> A metafísica dos costumes</strong>Bauru: Edipro, 2008.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> KANT, Immanuel. <strong>Crítica da razão prática</strong>. Lisboa: Edições 70, 2004.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> NAGEL, Thomas. <strong>The possibility of altruism</strong>. New Jersey: Princeton University Press, 1970.
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> OLIVEIRA, Manfredo Araújo de. <strong>Ética e sociabilidade</strong>. São Paulo: Loyola, 1993
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> PLATÃO. <strong>A República</strong>. São Paulo: Martin Cloret, 2005. RIBEIRO, Luís Távora Furtado (et. al.). <strong> Ética em três dimensões</strong>.  Fortaleza: Brasil Tropical, 2003
                     </li>
+                    <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> VÁZQUEZ, Adolfo Sánchez.<strong> Ética</strong>. 21.ed. Rio de Janeiro: Civilização Brasileira, 2001.
                     </li>
@@ -77,7 +91,7 @@ include('layout/header.php');
         <div class="center">
             <div class="btn-group" id="btn-group">
                 <a href="Topico04.php" class="btn btn-outline-success btn-sm ">Página Anterior</a>
-                <a href="#" class="btn btn-outline-success btn-sm">Topo da Página</a>
+                <a href="#" class="btn btn-outline-success btn-sm">Avaliação</a>
             </div>
         </div>
 

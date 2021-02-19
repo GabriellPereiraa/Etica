@@ -45,6 +45,16 @@ Texto negrito
 
 /* NOVOS ESTILOS - BEGIN */
 
+.blockquoteEad {
+    /* padding: .5rem 1rem !important; */
+    /* margin-bottom: 1rem !important; */
+    /* font-size: 1.25rem !important; */
+    /* border-left: .25rem solid #4885AE !important; */
+    padding: .5rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    border-left: .25rem solid #4885AE
+}
 
 /* Titulo */
 .Titulo {
