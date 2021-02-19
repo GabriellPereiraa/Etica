@@ -63,7 +63,7 @@ include('layout/header.php');
                     <div class="card">
                         <div class="card-header" id="headingOne">
                             <h2 class="mb-0">
-                                <button class="btn btn-info btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <h3><i class="far fa-question-circle" style="height:25px;"></i> Qual a diferença entre ética e moral? Não seriam estas a mesma coisa?</h3>
                                 </button>
                             </h2>
