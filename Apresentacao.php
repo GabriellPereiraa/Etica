@@ -22,24 +22,18 @@ include('layout/header.php');
                 <h2 class="font-bold">
                     Apresentação
                 </h2>
-
-                <div class="container">
                     <p class="Texto">
                         Desde tempos imemoráveis, a conduta humana tem sido objeto de estudo. A ética é um dos tantos ramos da filosofia e se dedica, resumidamente, ao estudo da moral em todas as suas manifestações. Ela é uma das mais altas ou mais avançadas maneiras de harmonização e convivência social. Nas décadas recentes, a abordagem sobre ética vem adquirindo cada vez mais espaço, em particular, em virtude da grande extensão de práticas perversas que tem se apresentado em grande partes do mundo, em particular, em diversas instituições públicas e privadas. Assim, algumas questões contemporâneas são postas pela ética, dentre elas: em que consiste a felicidade? O que torna uma ação boa ou má? Justa ou injusta?
                     </p>
-                </div>
 
                 <br>
                 <hr>
                 <h2 class="font-bold">
                     Objetivo
                 </h2>
-                    <div class="container">
-
                     <p class="Texto">
                         <i class="fas fa-bullseye"></i> Apresentar uma sumária conceituação de ética e moral, bem como alguns sistemas éticos e seus teóricos ao longo da história (períodos clássico grego, moderno e contemporâneo).
                     </p>
-                </div>
                 <!-- SCRIPT LIGHTBOX -->
                 <script>
                     $(document).on('click', '[data-toggle="lightbox"]', function(event) {
