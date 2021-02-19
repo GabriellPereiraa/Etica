@@ -34,14 +34,6 @@ include('layout/header.php');
                     <p class="Texto">
                         <i class="fas fa-bullseye"></i> Apresentar uma sumária conceituação de ética e moral, bem como alguns sistemas éticos e seus teóricos ao longo da história (períodos clássico grego, moderno e contemporâneo).
                     </p>
-                <!-- SCRIPT LIGHTBOX -->
-                <script>
-                    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                        event.preventDefault();
-                        $(this).ekkoLightbox();
-                    });
-                </script>
-
             </div> <!-- CLASS PAGE TITLE FIM -->
             
             <div class="center">
