@@ -210,7 +210,7 @@ include('layout/header.php');
             </p>
 
             <div class="row">
-                <div class="col-1 center border" style="background-color:#286ce6;">
+                <div class="col-1 center border" style="background-color:#4885AE;">
                     <p class="Texto" style="color:white;">
                         Exemplo
                     </p>
