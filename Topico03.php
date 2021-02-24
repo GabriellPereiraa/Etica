@@ -20,11 +20,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 03 - Concepções éticas
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong> Apresentar alguns sistemas éticos e seus principais teóricos</p>
             <hr class="hrLaranja">
@@ -56,8 +56,8 @@ include('layout/header.php');
             <br>
             <div class="text-center">
                 <p class="TituloFigura"><strong>Imagem 01:</strong> Platão</p>
-                <a href="imagens/Imagem02.jpg" data-toggle="lightbox" data-footer="Platão">
-                    <img class="img-fluid" src="imagens/Imagem02.jpg" alt="Alt_da_Imagem">
+                <a href="imagens/imagem02.jpg" data-toggle="lightbox" data-footer="Platão">
+                    <img class="img-fluid" src="imagens/imagem02.jpg" alt="Alt_da_Imagem">
                 </a>
                 <p class="FonteFigura"><strong>Fonte:</strong> Google</p>
             </div>
@@ -67,7 +67,7 @@ include('layout/header.php');
             </p>
 
             <p class="Texto">
-                    Ele propõe um modelo ideal, uma utopia, um desenho perfeito elaborado pela razão, destinado a servir de ponto de referência para todos aqueles que pretendam reformar os costumes e as instituições com o objetivo de melhorar a vida humana individual e social. Tal descrição está exposta em sua obra intitulada A República, na qual pretende demonstrar sua visão de justiça. Para ele, a virtude da justiça se apresenta como virtude que acolhe e harmoniza todo o conjunto da cidade e todos os elementos que conformam o indivíduo. Platão afirma que aqueles que se encontrarem de cheio com o bem em si, adquirirão um tipo de conhecimento superior, uma ciência do bem, que os capacitará de tal forma a governar com retidão e justiça nos assuntos da pólis-cidade. Talvez uma das frases mais marcantes da obra platônica aqui citada seja esta:
+            <span class="highlight highlighted">Ele propõe um modelo ideal, uma utopia, um desenho perfeito elaborado pela razão, destinado a servir de ponto de referência para todos aqueles que pretendam reformar os costumes e as instituições com o objetivo de melhorar a vida humana individual e social.</span> Tal descrição está exposta em sua obra intitulada A República, na qual pretende demonstrar sua visão de justiça. Para ele, a virtude da justiça se apresenta como virtude que acolhe e harmoniza todo o conjunto da cidade e todos os elementos que conformam o indivíduo. Platão afirma que aqueles que se encontrarem de cheio com o bem em si, adquirirão um tipo de conhecimento superior, uma ciência do bem, que os capacitará de tal forma a governar com retidão e justiça nos assuntos da pólis-cidade. Talvez uma das frases mais marcantes da obra platônica aqui citada seja esta:
             </p>
             
             <div class="col-md-12">
@@ -86,7 +86,7 @@ include('layout/header.php');
             <section id="Eudemonismo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <h3>Eudemonismo</h3>
@@ -111,7 +111,7 @@ include('layout/header.php');
             <section id="Hedonismo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Hedonismo</h3>
@@ -133,7 +133,7 @@ include('layout/header.php');
             <section id="Estoicismo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Estoicismo</h3>
@@ -158,7 +158,7 @@ include('layout/header.php');
             <section id="Utilitarismo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <h3>Utilitarismo</h3>
@@ -198,7 +198,7 @@ include('layout/header.php');
             <section id="Sociologismo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <h3>Sociologismo</h3>
@@ -220,7 +220,7 @@ include('layout/header.php');
             <section id="EticaKantiana">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                     <h3>Ética kantiana</h3>
