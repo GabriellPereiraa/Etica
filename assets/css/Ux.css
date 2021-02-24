@@ -300,16 +300,9 @@ Texto negrito
     border-color: #286ce6;
 }
 
-/*Cor cinza*/
-.Cinza{
-    color: var(--Cor01)
-}
-
-/*Borda hr grossa de cor cinza*/
-.hr4Cinza{
-    border:0;
-    border-bottom: 10px solid var(--Cor01);
-    margin-top: -6px;
+/*Cor Laranja Estado */
+.LaranjaEstado{
+    color: #FC6B30  
 }
 
 /* Cor azul */

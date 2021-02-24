@@ -18,11 +18,9 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
+            <h2 class="font-bold LaranjaEstado">
                 <i class="fas fa-folder"></i> 01 - Introdução à Ética
             </h2>
-
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo</strong>  Contextualizar a ética como parte da história humana.</p>
             

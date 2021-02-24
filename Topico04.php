@@ -20,14 +20,14 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
+            <h2 class="font-bold LaranjaEstado">
                 <i class="fas fa-folder"></i> 04 - Visão Contemporânea
             </h2>
 
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong> Abordar o debate atual sobre ética.</p>
             <hr class="hrLaranja">
+            
             <p class="Texto">
                 Antes de entrar, mais propriamente, na questão da ética no serviço público, convém destacar algumas visões do estudo da ética na contemporaneidade, como forma de apresentar alternativas ou visões novas para o paradigma clássico e moderno da axiologia. Várias são as correntes e pensadores atuais. Em particular, para fins deste estudo, destacamos:
             </p>
